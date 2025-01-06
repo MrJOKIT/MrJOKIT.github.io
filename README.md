@@ -127,3 +127,28 @@
 สามารถเล่นได้ที่ [Itch.io](https://jamesjoom321.itch.io/dragon-guy-run)
 
 [This game repository](https://github.com/SuNnY54569/Portfolio/tree/main/Project/Maggy%20The%20Dinosaur%20V.1)
+##
+
+<div align="center">
+  <h1>Achievements</h1>
+</div>
+<div align="center">
+  
+ผลงานที่ได้เข้าร่วม หรือ ได้รับรางวัล ระหว่างศึกษาที่ มหาวิทยาลัยกรุงเทพ
+</div>
+
+### Best Industrial Project Award (BU Game On 2024)
+
+##
+
+### Top 10 Thai Idea Jam 2024
+
+##
+
+### BU Openhouse 2024
+
+##
+
+### Global Game Jam 2024
+
+##

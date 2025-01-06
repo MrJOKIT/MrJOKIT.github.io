@@ -138,17 +138,17 @@
 </div>
 
 ### Best Industrial Project Award (BU Game On 2024)
-
+![ThesisAwardImage](https://github.com/MrJOKIT/GifForPortfolio/blob/main/469224503_548365771499702_4572154298778618168_n.jpg)
 ##
 
 ### Top 10 Thai Idea Jam 2024
-
+![ThaiIdeaJamImage](https://github.com/MrJOKIT/GifForPortfolio/blob/main/2e53f184-00b1-4c31-99da-212a61cc8a45.jpg)
 ##
 
 ### BU Openhouse 2024
-
+![BuOpenHouseImage](https://github.com/MrJOKIT/GifForPortfolio/blob/main/47bc16d4-abd2-435e-8736-004f44d2e414.jpg)
 ##
 
 ### Global Game Jam 2024
-
+![GameJamImage](https://github.com/MrJOKIT/GifForPortfolio/blob/main/422886051_758415826319413_6267057778869912267_n.jpg)
 ##

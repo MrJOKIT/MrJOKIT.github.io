@@ -119,7 +119,6 @@
 ![ezgif-5-a9de5a93c3](https://github.com/MrJOKIT/GifForPortfolio/blob/main/Fuinimal.gif)
 
 สามารถเล่นได้ที่ [Itch.io](https://jamesjoom321.itch.io/funimal)
-[ขออภัยเนื่องจาก ณ เวลานั้นยังไม่ได้เรียนรู้การใช้ VisionControl เก็บผลงาน]
 
 ## 2021
 
@@ -138,7 +137,6 @@
 ![ezgif-5-0400847c17](https://github.com/MrJOKIT/GifForPortfolio/blob/main/DragonGuy.gif)
 
 สามารถเล่นได้ที่ [Itch.io](https://jamesjoom321.itch.io/dragon-guy-run)
-[ขออภัยเนื่องจาก ณ เวลานั้นยังไม่ได้เรียนรู้การใช้ VisionControl เก็บผลงาน]
 
 ##
 

@@ -18,13 +18,13 @@
 - 
 - 
 
-![Stomach Struggle GIF](https://github.com/SuNnY54569/SuNnY54569/blob/840ff9a3d35d054b0a5cf1473f4fcba0f4c86166/StomachStruggle.gif?raw=true)
+![Stomach Struggle GIF](https://github.com/MrJOKIT/GifForPortfolio/blob/main/Lofty.gif)
 
 สามารถติดตามเกมนี้ได้ที่ [STEAM](https://store.steampowered.com/app/3360590/Lofty_Little_Chess/?l=thai).
 
 [This game repository](https://github.com/MrJOKIT/Rosso2024)
 
-
+##
 
 ### Quartz Core (PC) | Industrial Project
 * รับหน้าที่เป็น "โปรแกรมเมอร์"
@@ -36,7 +36,9 @@
 - 
 - 
 
-![Stomach Struggle GIF](https://github.com/SuNnY54569/SuNnY54569/blob/840ff9a3d35d054b0a5cf1473f4fcba0f4c86166/StomachStruggle.gif?raw=true)
+![QuartzCoreGIF](https://github.com/MrJOKIT/GifForPortfolio/blob/main/QuartzCoreGIf.gif)
+
+##
 
 ### Banana Guy (PC) | Game Jam Project
 * รับหน้าที่เป็น "โปรแกรมเมอร์" , "เกมดีไซน์เนอร์"
@@ -48,7 +50,7 @@
 - 
 - 
 
-![Stomach Struggle GIF](https://github.com/MrJOKIT/GifForPortfolio/blob/main/BananaGuyGif.gif)
+![Stomach Struggle GIF](https://github.com/MrJOKIT/GifForPortfolio/blob/main/BananaGuy.gif)
 
 สามารถเล่นได้ที่ [Itch.io](https://jamesjoom321.itch.io/banana-guy)
 
@@ -66,11 +68,13 @@
 - 
 - 
 
-![ezgif-5-0400847c17](https://github.com/MrJOKIT/GifForPortfolio/blob/main/TopoSwiftQuickGif.gif)
+![ezgif-5-0400847c17](https://github.com/MrJOKIT/GifForPortfolio/blob/main/TOPO.gif)
 
 สามารถเล่นได้ที่ [Itch.io](https://jamesjoom321.itch.io/tobo-swift-quick)
 
 [This game repository](https://github.com/SuNnY54569/Portfolio/tree/main/Project/Maggy%20The%20Dinosaur%20V.1)
+
+##
 
 ### Frontline Escape (Itch.io)
 
@@ -83,7 +87,7 @@
 - 
 - 
 
-![ezgif-5-0400847c17](https://github.com/MrJOKIT/GifForPortfolio/blob/main/FrontlineEscapeGif.gif)
+![ezgif-5-0400847c17](https://github.com/MrJOKIT/GifForPortfolio/blob/main/FromtlineEscape.gif)
 
 สามารถเล่นได้ที่ [Itch.io](https://jamesjoom321.itch.io/frontline-escape-by-jokit)
 
@@ -102,7 +106,7 @@
 - Basic Checkpoint
 - Quest System
 
-![ezgif-5-a9de5a93c3](https://github.com/MrJOKIT/GifForPortfolio/blob/main/FunimalGif.gif)
+![ezgif-5-a9de5a93c3](https://github.com/MrJOKIT/GifForPortfolio/blob/main/Fuinimal.gif)
 
 สามารถเล่นได้ที่ [Itch.io](https://jamesjoom321.itch.io/funimal)
 
@@ -122,7 +126,7 @@
 - Math Test
 - Score
 
-![ezgif-5-0400847c17](https://github.com/MrJOKIT/GifForPortfolio/blob/main/DragonGuyGif.gif)
+![ezgif-5-0400847c17](https://github.com/MrJOKIT/GifForPortfolio/blob/main/DragonGuy.gif)
 
 สามารถเล่นได้ที่ [Itch.io](https://jamesjoom321.itch.io/dragon-guy-run)
 

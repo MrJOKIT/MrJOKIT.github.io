@@ -23,7 +23,7 @@
 </ul>
 <p>
   <a href="https://store.steampowered.com/app/3360590/Lofty_Little_Chess/?l=thai" target="_blank">🕹 Steam</a><br>
-  <a href="https://github.com/MrJOKIT/Rosso2024" target="_blank">📂 Repository</a>
+  //<a href="https://github.com/MrJOKIT/Rosso2024" target="_blank">📂 Repository</a>
 </p>
 <img src="https://github.com/MrJOKIT/GifForPortfolio/blob/main/Lofty.gif" width="500"/>
 

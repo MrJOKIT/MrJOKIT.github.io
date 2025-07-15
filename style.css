@@ -105,3 +105,19 @@ a:hover {
   color: #aaa;
   font-size: 0.9em;
 }
+p {
+  line-height: 1.8;
+  margin-bottom: 16px;
+}
+ul {
+  margin-bottom: 16px;
+  padding-left: 20px;
+}
+li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}

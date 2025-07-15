@@ -4,166 +4,31 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Nattakit Namwong – Portfolio</title>
-  <style>
-    * {
-      box-sizing: border-box;
-    }
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: #f4f4f4;
-      color: #222;
-    }
-    nav {
-      display: flex;
-      justify-content: flex-end;
-      align-items: center;
-      padding: 20px;
-      background-color: #fff;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-      position: sticky;
-      top: 0;
-      z-index: 1000;
-      flex-wrap: wrap;
-    }
-    nav a {
-      margin: 0 10px;
-      text-decoration: none;
-      color: #007acc;
-      font-weight: bold;
-      font-size: 1rem;
-    }
-    nav a:hover {
-      text-decoration: underline;
-    }
-
-    .banner {
-      background-image: url('https://raw.githubusercontent.com/MrJOKIT/GifForPortfolio/main/Banner.jpg');
-      background-size: cover;
-      background-position: center;
-      height: 300px;
-      display: flex;
-      align-items: center;
-      padding: 40px;
-      color: white;
-      text-shadow: 1px 1px 5px rgba(0,0,0,0.8);
-    }
-    .banner-text {
-      max-width: 600px;
-    }
-    .banner h1 {
-      font-size: 3em;
-      margin: 0;
-    }
-    .banner p {
-      font-size: 1.5em;
-      margin: 10px 0 0;
-    }
-
-    section {
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 0 20px;
-    }
-
-    h2 {
-      border-bottom: 2px solid #ddd;
-      padding-bottom: 10px;
-      margin-bottom: 20px;
-    }
-
-    img {
-      max-width: 100%;
-      border-radius: 10px;
-      margin: 10px 0;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-
-    ul { padding-left: 20px; }
-    hr { margin: 40px 0; border: none; border-top: 1px solid #ccc; }
-
-    /* Responsive adjustments */
-    @media (max-width: 768px) {
-      .banner {
-        height: auto;
-        padding: 20px;
-        flex-direction: column;
-        text-align: center;
-      }
-      .banner h1 {
-        font-size: 2em;
-      }
-      .banner p {
-        font-size: 1.2em;
-      }
-      nav {
-        justify-content: center;
-      }
-      nav a {
-        margin: 10px;
-        font-size: 0.95rem;
-      }
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-  <!-- Navigation -->
   <nav>
-  <a href="#home">Home</a>
-  <a href="#project">Project</a>
-  <a href="#achievement">Achievement</a>
-  <a href="#contact">Contact</a>
-</nav>
+    <a href="index.html">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="achievements.html">Achievements</a>
+    <a href="contact.html">Contact</a>
+  </nav>
 
-  <!-- Banner Section -->
-  <section id="home" class="banner">
+  <section class="banner">
     <div class="banner-text">
       <h1>Nattakit Namwong</h1>
       <p>Portfolio</p>
     </div>
   </section>
 
-  <!-- About Me Section (ใต้ Banner) -->
-  <section>
+  <section class="about">
     <h2>👋 About Me</h2>
     <p>
-      I’m Nattakit Namwong, a Unity Game Developer based in Thailand. I’m passionate about crafting immersive gameplay experiences through elegant systems, procedural generation, and turn-based mechanics.  
+      I’m Nattakit Namwong, a Unity Game Developer based in Thailand. I’m passionate about crafting immersive gameplay experiences through elegant systems, procedural generation, and turn-based mechanics.
     </p>
     <p>
       I graduated from Bangkok University and participated in various game projects including my thesis title <strong>Lofty Little Chess</strong> (now available on Steam). I'm always eager to learn and collaborate with passionate teams to bring creative ideas to life.
     </p>
-  </section>
-
-  <!-- Project Section -->
-  <section id="project">
-    <h2>🕹 Projects</h2>
-
-    <h3>LOFTY LITTLE CHESS</h3>
-    <p>A fast-paced tactical rogue-like strategy game.</p>
-    <img src="https://raw.githubusercontent.com/MrJOKIT/GifForPortfolio/main/Lofty.gif" alt="Lofty Little Chess"/>
-    <p><a href="https://store.steampowered.com/app/3360590/Lofty_Little_Chess/?l=thai" target="_blank">🕹 Steam</a></p>
-
-    <!-- (ต่อโปรเจกต์อื่นๆ ด้านล่างนี้ตามต้องการ) -->
-  </section>
-
-  <!-- Achievement Section -->
-  <section id="achievement">
-    <h2>🏆 Achievements</h2>
-
-    <h3>Best Industrial Project Award (BU Game On 2024)</h3>
-    <img src="https://raw.githubusercontent.com/MrJOKIT/GifForPortfolio/main/469224503_548365771499702_4572154298778618168_n.jpg" alt="Award"/>
-    
-    <!-- (ต่อรางวัลอื่นๆ ได้เลย) -->
-  </section>
-<section id="contact">
-    <h2>📬 Contact</h2>
-    <ul>
-      <li><strong>Facebook:</strong> <a href="https://www.facebook.com/nattakit.namwong.2024/" target="_blank">Nattakit Namwong</a></li>
-      <li><strong>Email:</strong> <a href="mailto:james.nattakit27@gmail.com">james.nattakit27@gmail.com</a></li>
-      <li><strong>Phone:</strong> +66 94 707 6746</li>
-      <li><strong>Location:</strong> Bangkok, Thailand</li>
-    </ul>
   </section>
 </body>
 </html>

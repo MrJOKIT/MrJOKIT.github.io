@@ -30,6 +30,7 @@ nav a:hover {
   text-decoration: underline;
 }
 .banner {
+  position: relative;
   background-image: url('https://raw.githubusercontent.com/MrJOKIT/GifForPortfolio/main/Banner.jpg');
   background-size: cover;
   background-position: center;
@@ -40,6 +41,22 @@ nav a:hover {
   padding-left: 40px;
   color: white;
   text-shadow: 1px 1px 5px rgba(0,0,0,0.8);
+  overflow: hidden;
+}
+.banner-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000000; /* สีดำ */
+  opacity: 0.4; /* ยิ่งมาก ยิ่งจาง (0.4–0.6 แนะนำ) */
+  z-index: 1;
+}
+
+.banner-text {
+  position: relative;
+  z-index: 2;
 }
 .banner h1 {
   font-size: 3em;
